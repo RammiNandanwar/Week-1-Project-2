@@ -1,6 +1,6 @@
 # Week-1-Project-2
 
-**Project 2: Dream Bucket List**
+** Project 2: Dream Bucket List **
 
 A creative and fun webpage that showcases your personal or life goals using HTML lists, emojis, and custom CSS styling.
 
